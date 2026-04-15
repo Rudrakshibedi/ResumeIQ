@@ -67,7 +67,7 @@ resume-skill-extractor/
 ▶️ Run Locally
 
 bash
-git clone https://github.com/your-username/resume-skill-extractor.git
+git clone https://github.com/rudrakshibedi/ResumeIQ.git
 cd resume-skill-extractor
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
