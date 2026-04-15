@@ -1,0 +1,11 @@
+python
+java
+machine learning
+data analysis
+data science
+sql
+excel
+tensorflow
+pytorch
+communication
+problem solving
