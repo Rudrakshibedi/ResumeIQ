@@ -1,11 +1,1 @@
-python
-java
-machine learning
-data analysis
-data science
-sql
-excel
-tensorflow
-pytorch
-communication
-problem solving
+Python, Java, Machine Learning, Data Analysis, Data Science, SQL, Excel, TensorFlow, PyTorch, Communication, Problem Solving, Artificial Intelligence, Deep Learning, Data Analytics, Statistics, Probability, Data Visualization, Predictive Modeling, Feature Engineering, Feature Selection, Model Evaluation, Classification, Regression, Clustering, Random Forest, Decision Tree, KNN, Support Vector Machine, XGBoost, Ensemble Learning, Neural Networks, CNN, RNN, LSTM, NLP, Computer Vision, Generative AI, Large Language Models, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, OpenCV, Jupyter Notebook, Google Colab, Data Cleaning, Data Wrangling, Data Mining, Exploratory Data Analysis, Statistical Analysis, Hypothesis Testing, Time Series Analysis, Business Analytics, Business Intelligence, Power BI, Tableau, Advanced Excel, Pivot Tables, VLOOKUP, XLOOKUP, Power Query, Dashboard Development, Data Reporting, MySQL, PostgreSQL, Database Management, Relational Databases, Primary Key, Foreign Key, SQL Joins, Query Optimization, Data Modeling, Data Warehousing, ETL, Big Data, Hadoop, Apache Spark, AWS, Azure, Google Cloud Platform, Git, GitHub, Version Control, Data Structures, Algorithms, Object Oriented Programming, OOP, Multithreading, Exception Handling, File Handling, API Integration, Software Development, SDLC, Debugging, Testing, Research, Critical Thinking, Analytical Thinking, Teamwork, Leadership, Collaboration, Project Management, Time Management, Attention to Detail, Adaptability, Presentation Skills, Client Communication, Stakeholder Management, Decision Making, Quantitative Analysis, Forecasting, Pattern Recognition, Automation, Workflow Optimization, Reporting, KPI Analysis, Business Reporting, Data Governance, Data Quality, Innovation, Technical Documentation
